@@ -1,12 +1,3 @@
-"""
-INSTITUTIONAL PORTFOLIO CONSTRUCTION & REBALANCING PLATFORM
-============================================================
-Professional-grade portfolio optimization and management system
-Built for asset managers, advisors, and institutional investors
-
-Requirements:
-pip install streamlit pandas numpy scipy yfinance plotly scikit-learn
-"""
 
 import streamlit as st
 import pandas as pd
